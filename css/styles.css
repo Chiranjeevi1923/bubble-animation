@@ -1,0 +1,13 @@
+body, html {
+    padding: 0;
+    margin: 0;
+}
+html {
+    overflow: hidden;
+}
+
+#addBubble {
+    position: absolute;
+    left: 2rem;
+    top: 1rem;
+}
